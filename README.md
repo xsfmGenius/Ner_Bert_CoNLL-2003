@@ -8,6 +8,5 @@ Windows11，AMD R7，4060，CUDA 12.1.1，cudnn 8.9.0，pytorch 2.1.2
 ```
 1.搭建pytorch环境
 2.下载'bert-base-uncased'预训练模型
-3.下载数据集
-4.运行'run.py
+3.运行'run.py
 ```
